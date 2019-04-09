@@ -169,7 +169,7 @@ export default {
       let Editor = this.quill;
       let range = Editor.getSelection();
       let cursorLocation = range.index;
-      this.$emit("imageAdded", file, Editor, cursorLocation, resetUploader);
+      this.$emit("imageadded", file, Editor, cursorLocation, resetUploader);
     }
   },
 
