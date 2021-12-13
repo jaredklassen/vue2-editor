@@ -45,7 +45,7 @@
     "quill-image-resize-module": "^3.0.0",
     "release-it": "^7.4.8",
     "sass": "^1.45.0",    
-    "sass-loader": "^6.0.6",
+    "sass-loader": "7.*",
     "spectre.css": "^0.2.12"
   },
   "license": "MIT",
